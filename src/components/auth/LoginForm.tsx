@@ -188,15 +188,6 @@ const LoginForm: React.FC<LoginFormProps> = ({ onSuccess, onError }) => {
           "Sign in"
         )}
       </button>
-
-      <div className="mt-4 p-3 bg-gray-100 rounded-lg text-sm text-gray-700">
-        <p>
-          <strong>Email:</strong> {formData.email}
-        </p>
-        <p>
-          <strong>Password:</strong> {formData.password}
-        </p>
-      </div>
     </form>
   );
 };
