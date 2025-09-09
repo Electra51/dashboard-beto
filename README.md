@@ -3,7 +3,11 @@
 
 Frontend application using nextjs, typescript, tailwindcss, redux toolkit and so on.
 
+## Login Credentials 
+- Email: abc@gmail.com
+- password:123456
 
+  
 ## Tech Stack
 
 **Client:** NextJs(App router), Typescript, Redux-toolkit, TailwindCSS, RTK-query
